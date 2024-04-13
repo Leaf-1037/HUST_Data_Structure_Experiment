@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Experimental_Report.aux
+The style file: Experimental_Report.bst
+Illegal, another \bibstyle command---line 96 of file Experimental_Report.aux
+ : \bibstyle
+ :          {Experimental_Report}
+I'm skipping whatever remains of this command
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: Experimental_Report.bib
+Warning--string name "feb" is undefined
+--line 15 of file Experimental_Report.bib
+Name 2 in "Chen, Jiazhong and Li, Zongyi, and Jin, Yi and Ren, Dakai and Ling, hefei" has a comma at the end for entry STR2021Neurocom
+while executing---line 3865 of file Experimental_Report.bst
+Name 2 in "Chen, Jiazhong and Li, Zongyi, and Jin, Yi and Ren, Dakai and Ling, hefei" has a comma at the end for entry STR2021Neurocom
+while executing---line 3865 of file Experimental_Report.bst
+Name 2 in "Chen, Jiazhong and Li, Zongyi, and Jin, Yi and Ren, Dakai and Ling, hefei" has a comma at the end for entry STR2021Neurocom
+while executing---line 3865 of file Experimental_Report.bst
+Name 2 in "Chen, Jiazhong and Li, Zongyi, and Jin, Yi and Ren, Dakai and Ling, hefei" has a comma at the end for entry STR2021Neurocom
+while executing---line 3865 of file Experimental_Report.bst
+Warning--Require address: Mehrabian1974An
+Warning--Require citedate: baf96
+Warning--Require year: ski17
+Warning--Require citedate: ski17
+Warning--Require title: LTE2015MIP
+Warning--Require address: LTE2015MIP
+Warning--Require author: MIH2010IEEE
+Warning--Require title: Dai2008Semantic
+Warning--Require address: Dai2008Semantic
+Warning--Require country: Multiplexing2000USA
+Warning--Require patentid: Multiplexing2000USA
+Warning--Require year: Euro2015WG
+Warning--Require year: Euro2015WG
+You've used 13 entries,
+            3051 wiz_defined-function locations,
+            787 strings with 7851 characters,
+and the built_in function-call counts, 18330 in all, are:
+= -- 1986
+> -- 40
+< -- 90
++ -- 1618
+- -- 126
+* -- 523
+:= -- 2107
+add.period$ -- 0
+call.type$ -- 13
+change.case$ -- 54
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 2509
+empty$ -- 668
+format.name$ -- 108
+if$ -- 4885
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 0
+newline$ -- 66
+num.names$ -- 12
+pop$ -- 248
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 194
+stack$ -- 0
+substring$ -- 2105
+swap$ -- 491
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 13
+while$ -- 240
+width$ -- 15
+write$ -- 179
+(There were 5 error messages)
